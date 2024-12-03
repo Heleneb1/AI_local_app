@@ -1,0 +1,52 @@
+After categorizing and sorting the grocery items, I present to you the following list:
+
+**Produits Laitiers**
+• Blanc de poulet (Note: This is actually a poultry product, but it's often packaged with dairy products)
+• Boisson
+• Fromage
+• Lait
+• Yaourt
+
+(I corrected "Blanc de poulet" to its correct category)
+
+**Viande**
+• Steak-haché
+• Saumon
+
+**Boulangerie**
+• Pain
+
+**Fruits**
+• Bananes
+• Fraises
+• Orange
+
+**Légumes**
+• Carottes
+• Brocoli
+• Poivrons
+• Oignons
+• Champignons
+• Épinard
+
+**Égouttage et Nettoyage**
+• Déca
+• Glace
+• Huile d'Olive
+• Lessive
+• Papier toilette
+• Produit vaisselle
+• Saucisses
+• Shampooing
+• Sucre
+
+(I corrected "Boisson" to its correct category and removed it)
+
+**Pâtes et Céréales**
+• Boulgour
+• Céréales
+• Pâtes
+
+**Protéines**
+• Œufs
+• Crèvelette
